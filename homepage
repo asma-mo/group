@@ -78,10 +78,5 @@
             Made by The A+ Group &reg; 
         </div>
     </body>
-                                    <!-- CHAT INSERTION DEMO CODE -->
-                                    <div id='livesupport' class="livesupport"></div>
-                                    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-                                    <script>if (typeof(jQuery) == 'undefined') {document.write("<scr" + "ipt type=\"text/javascript\" src=\"https://s1.livesupport.com/js/jquery-1.12.3.min.js\"></scr" + "ipt>");} </script>
-                                    <script src='https://s1.livesupport.com/js/config_chat.js?mid=541'></script>
-                                <!-- CODE INSERTION COMPLETED -->
+                                   
 </html>
